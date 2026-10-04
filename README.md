@@ -1,40 +1,34 @@
-Olá, eu sou Leonardo 👋
+<div align="center">
+👋 Olá, eu sou Leonardo Santos
+Software Developer • Computer Engineering • Automation • AI
 
-💻 Desenvolvedor | 🚀 Tecnologia | 🤖 Automação & IA
+Transformando ideias em soluções digitais
 
-Sou apaixonado por tecnologia e desenvolvimento de software.
-Aqui no GitHub compartilho meus projetos, estudos e experimentos.
+<br> <a href="https://github.com/Leonardo-GioLab"> <img src="https://img.shields.io/badge/GitHub-Leonardo--GioLab-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <img src="https://komarev.com/ghpvc/?username=Leonardo-GioLab&label=VISITAS&style=for-the-badge"> </div>
+👨‍💻 Sobre mim
+const leonardo = {
+  role: "Software Developer",
+  education: "Computer Engineering",
 
-🛠️ Tecnologias
+  interests: [
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Automation",
+    "Computer Networks",
+    "Financial Systems",
+    "Business Rules"
+  ],
 
-JavaScript / TypeScript
+  experience: [
+    "Software Development",
+    "Network Administration",
+    "Financial Business Rules"
+  ],
 
-Python
+  philosophy: "Build things that solve real problems."
+};
 
-HTML & CSS
 
-Git & GitHub
+Gosto de desenvolver soluções que conectam software, automação, infraestrutura e regras de negócio.
 
-APIs e automações
-
-Inteligência Artificial
-
-🚀 Projetos em destaque
-
-Em breve, alguns dos projetos que estou desenvolvendo e estudando estarão aqui.
-
-📚 Atualmente estudando
-
-Desenvolvimento de aplicações modernas
-
-Inteligência Artificial
-
-Automação
-
-Boas práticas de engenharia de software
-
-📫 Contato
-
-GitHub: Leonardo-GioLab
-
-⭐ Sempre aprendendo, construindo e compartilhando.
+Minha experiência envolve desenvolvimento de software, administração de redes e sistemas financeiros, buscando transformar necessidades reais em soluções eficientes, confiáveis e escaláveis.
