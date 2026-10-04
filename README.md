@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Leonardo Santos
 
-### Software Developer • Computer Engineering • Automation • AI
+### Software Developer • Network Administration • Automation • Financial Systems
 
 **Transformando ideias em soluções digitais**
 
